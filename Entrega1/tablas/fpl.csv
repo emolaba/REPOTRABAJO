@@ -1,2 +1,9 @@
 tipo,vuelo,aeronave,velocidad,altitud,ruta,piloto,copiloto,numero_pasajeros,estado
-aa
+comercial;AAU336;AXHMLGY;890;12500;1;aaa;iii;365;yes
+comercial;AAU336;FKTDAFG;788;14300;2;bbb;jjj;290;yes
+comercial;ACA844;WXCLMWM;902;13600;3;ccc;kkk;103;no
+comercial;ACA844;LMQJYFN;911;14999;4;ddd;lll;201;yes
+comercial;FJI693;CJSXGVZ;512;12990;5;eee;mmm;309;yes
+comercial;FJI693;JAMXAWS;701;13789;6;fff;nnn;104;no
+no comercial;KIRBY;YTANLZX;679;14500;7;ggg;ooo;9;yes
+militar;DAGA;TRWHCHN;808;12700;8;hhh;ppp;80;yes
