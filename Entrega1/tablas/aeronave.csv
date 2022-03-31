@@ -1,1 +1,35 @@
-(codigo_internacional, nombre, modelo, peso, id_certificado
+codigo_internacional,nombre,modelo,peso,id_certificado
+AXHMLGY, Airbus, A330-800, 1339, 1
+FKTDAFG, Airbus, A330-900, 2582, 2
+WXCLMWM, Airbus, A340-200, 2218, 3
+LMQJYFN, Airbus, A340-300, 1914, 4
+CJSXGVZ, Airbus, A340-500, 1356, 5
+JAMXAWS,  Airbus, A340-600, 1924, 6
+YTANLZX, Airbus, A350-900, 1257, 7
+TRWHCHN, Airbus,  A350-1000, 2147, 8
+TYSTYYX, Boeing, 737 MAX 7, 2068, 9
+MMYTHNM, Boeing, 737 MAX 8, 2174, 10
+PHVAZTB, Boeing, 737 MAX 9, 1662, 11
+DUNQRHX, Boeing, 737 MAX 10, 2703, 12
+EWYTTJE, Bell, 412, 2982, 13
+RZWBHKH, Bell, 429, 1365, 14
+HGACUXH, De Havilland Canada, DHC-4 Caribou, 1352, 15
+ALDTGHY, De Havilland Canada, DHC-5 Buffalo, 1327, 16
+SEPPQRF, De Havilland Canada, DHC-6 Twin Otter, 2707, 17
+HRLWWCV, De Havilland Canada DHC-7 Dash 7, 2756, 18
+BCDDRYJ, De Havilland,  DH.104 Dove, 2819, 19
+MYJXVVX, Embraer, EMB 110 Bandeirante, 2724, 20
+GXEFYRX, Embraer, EMB 120 Brasilia, 2845, 21
+NBWDCKN, Embraer, RJ135, 2013, 22
+TRMAWVX, Embraer, RJ140, 2031, 23
+SKBBQJB, McDonnell, Douglas MD-11, 1663, 24
+CJYBXVG, McDonnell Douglas, MD-11F, 1744, 25
+GWPJZNK, McDonnell Douglas, MD-11C, 1825, 26
+ZRRXVDJ, McDonnell Douglas, MD-81, 2110, 27
+QJWFQCH, McDonnell Douglas, MD-82, 1121, 28
+NGPSFLP, McDonnell Douglas, MD-83, 1053, 29
+XSZJPQW, McDonnell Douglas, MD-87, 1497, 30
+KBMVLQZ, McDonnell Douglas, MD-88, 1880, 31
+TARTRKN, Sikorsky, S-76, 1247, 32
+AWPKUPJ, Sikorsky, S-92, 1227, 33
+MGUGBWL, Saab, 2000, 1671, 34
