@@ -1,4 +1,4 @@
-ICAO,IATA,ciudad,nombre,pais
+IATA,ICAO,ciudad,nombre,pais
 MDQ,SAZM,Mar del Plata,Mar Del Plata Intl Airport,Argentina
 MDZ,SAME,Mendoza,El Plumerillo Intl Airport,Argentina
 PRA,SAAP,Parana,General Urquiza Airport,Argentina
@@ -35,6 +35,7 @@ SOF,LBSF,Sofia,Sofia Airport,Bulgaria
 VAR,LBWN,Varna,Varna Intl Airport,Bulgaria
 XGA,DFOG,Amilcar Cabral De Gaoua,Amilcar Cabral De Gaoua,Burkina Faso
 BNR,DFOB,Banfora,Banfora,Burkina Faso
+SCL,SCEL,Santiago,Aeropuerto Internacional Arturo Merino Benitez,Chile
 BAI,MRBA,Buenos Aires,Buenos Aires Airport,Costa Rica
 RIK,MRCR,Carrillo,Carrillo Airport,Costa Rica
 OTR,MRCC,Coto 47,Coto 47 Airport,Costa Rica
