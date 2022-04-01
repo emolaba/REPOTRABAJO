@@ -1,50 +1,50 @@
-IATA,ICAO,ciudad,nombre,pais
-MDQ,SAZM,Mar del Plata,Mar Del Plata Intl Airport,Argentina
-MDZ,SAME,Mendoza,El Plumerillo Intl Airport,Argentina
-PRA,SAAP,Parana,General Urquiza Airport,Argentina
-CTL,YBCV,Charleville,Charleville Airport,Australia
-CCL,YCCA,Chinchilla,Chinchilla Airport,Australia
-XCH,YPXM,Christmas Island,Christmas Island Airport,Australia
-TCB,MYAT,Treasure Cay (Abaco),Treasure Cay Airport,Bahamas
-BAH,OBBI,Bahrain,Bahrain Intl Airport,Bahrain
-BZL,VGBR,Barisal,Barisal Airport,Bangladesh
-KJK,EBKT,Kortrijk,Kortrijk-Wevelgem Airport,Belgium
-LGG,EBLG,Liege,Liege Airport,Belgium
-OST,EBOS,Ostend,Ostend-Bruges Intl Airport,Belgium
-BZE,MZBZ,Belize,Philip S W Goldson Intl Airport,Belize
-COO,DBBB,Cotonou,Cadjehoun,Benin
-KDC,DBBK,Kandi,Kandi,Benin
-BDA,TXKF,Hamilton,Hamilton Bermuda Intl,Bermuda
-PBH,VQPR,Paro,Paro Airport,Bhutan
-APB,SLAP,Apolo,Apolo,Bolivia
-BJO,SLBJ,Bermejo,Bermejo,Bolivia
-CAM,SLCA,Camiri,Camiri,Bolivia
-TZL,LQTZ,Tuzla,Tuzla Intl Airport,Bosnia-Hercegovina
-FRW,FBFT,Francistown,Francistown,Botsuana
-GBE,FBSK,Gaborone,Sir Seretse Khama Intl,Botsuana
-GNZ,FBGZ,Ghanzi,Ghanzi,Botsuana
-JWA,FBJW,Jwaneng,Jwaneng,Botsuana
-BBK,FBKE,Kasane,Kasane,Botsuana
-CWB,SBCT,Curitiba,Afonso Pena Intl Airport,Brazil
-FLN,SBFL,Florianopolis,Herc,Brazil
-FOR,SBFZ,Fortaleza,Pinto Martins Intl Airport,Brazil
-IGU,SBFI,Foz do Iguacu,Foz do Iguacu Intl Airport,Brazil
-GYN,SBGO,Goiania,Santa Genoveva Airport,Brazil
-IOS,SBIL,Ilheus,Jorge Amado Airport,Brazil
-SOF,LBSF,Sofia,Sofia Airport,Bulgaria
-VAR,LBWN,Varna,Varna Intl Airport,Bulgaria
-XGA,DFOG,Amilcar Cabral De Gaoua,Amilcar Cabral De Gaoua,Burkina Faso
-BNR,DFOB,Banfora,Banfora,Burkina Faso
-SCL,SCEL,Santiago,Aeropuerto Internacional Arturo Merino Benitez,Chile
-BAI,MRBA,Buenos Aires,Buenos Aires Airport,Costa Rica
-RIK,MRCR,Carrillo,Carrillo Airport,Costa Rica
-OTR,MRCC,Coto 47,Coto 47 Airport,Costa Rica
-DRK,MRDK,Drake Bay,Drake Bay Airport,Costa Rica
-GLF,MRGF,Golfito,Golfito Airport,Costa Rica
-GPL,MRGP,Guapiles,Guapiles Airport,Costa Rica
-AAR,EKAH,Aarhus,Aarhus Airport,Denmark
-BLL,EKBI,Billund,Billund Airport,Denmark
-RKE,EKRK,Copenhagen,Copenhagen Roskilde Airport,Denmark
-CPH,EKCH,Copenhagen,Copenhagen Kastrup Intl Airport,Denmark
-EBJ,EKEB,Esbjerg,Esbjerg Airport,Denmark
-ODE,EKOD,Odense,Odense Airport,Denmark
+IATA;ICAO;ciudad;nombre;pais
+MDQ;SAZM;Mar del Plata;Mar Del Plata Intl Airport;Argentina
+MDZ;SAME;Mendoza;El Plumerillo Intl Airport;Argentina
+PRA;SAAP;Parana;General Urquiza Airport;Argentina
+CTL;YBCV;Charleville;Charleville Airport;Australia
+CCL;YCCA;Chinchilla;Chinchilla Airport;Australia
+XCH;YPXM;Christmas Island;Christmas Island Airport;Australia
+TCB;MYAT;Treasure Cay (Abaco);Treasure Cay Airport;Bahamas
+BAH;OBBI;Bahrain;Bahrain Intl Airport;Bahrain
+BZL;VGBR;Barisal;Barisal Airport;Bangladesh
+KJK;EBKT;Kortrijk;Kortrijk-Wevelgem Airport;Belgium
+LGG;EBLG;Liege;Liege Airport;Belgium
+OST;EBOS;Ostend;Ostend-Bruges Intl Airport;Belgium
+BZE;MZBZ;Belize;Philip S W Goldson Intl Airport;Belize
+COO;DBBB;Cotonou;Cadjehoun;Benin
+KDC;DBBK;Kandi;Kandi;Benin
+BDA;TXKF;Hamilton;Hamilton Bermuda Intl;Bermuda
+PBH;VQPR;Paro;Paro Airport;Bhutan
+APB;SLAP;Apolo;Apolo;Bolivia
+BJO;SLBJ;Bermejo;Bermejo;Bolivia
+CAM;SLCA;Camiri;Camiri;Bolivia
+TZL;LQTZ;Tuzla;Tuzla Intl Airport;Bosnia-Hercegovina
+FRW;FBFT;Francistown;Francistown;Botsuana
+GBE;FBSK;Gaborone;Sir Seretse Khama Intl;Botsuana
+GNZ;FBGZ;Ghanzi;Ghanzi;Botsuana
+JWA;FBJW;Jwaneng;Jwaneng;Botsuana
+BBK;FBKE;Kasane;Kasane;Botsuana
+CWB;SBCT;Curitiba;Afonso Pena Intl Airport;Brazil
+FLN;SBFL;Florianopolis;Herc;Brazil
+FOR;SBFZ;Fortaleza;Pinto Martins Intl Airport;Brazil
+IGU;SBFI;Foz do Iguacu;Foz do Iguacu Intl Airport;Brazil
+GYN;SBGO;Goiania;Santa Genoveva Airport;Brazil
+IOS;SBIL;Ilheus;Jorge Amado Airport;Brazil
+SOF;LBSF;Sofia;Sofia Airport;Bulgaria
+VAR;LBWN;Varna;Varna Intl Airport;Bulgaria
+XGA;DFOG;Amilcar Cabral De Gaoua;Amilcar Cabral De Gaoua;Burkina Faso
+BNR;DFOB;Banfora;Banfora;Burkina Faso
+SCL;SCEL;Santiago;Aeropuerto Internacional Arturo Merino Benitez;Chile
+BAI;MRBA;Buenos Aires;Buenos Aires Airport;Costa Rica
+RIK;MRCR;Carrillo;Carrillo Airport;Costa Rica
+OTR;MRCC;Coto 47;Coto 47 Airport;Costa Rica
+DRK;MRDK;Drake Bay;Drake Bay Airport;Costa Rica
+GLF;MRGF;Golfito;Golfito Airport;Costa Rica
+GPL;MRGP;Guapiles;Guapiles Airport;Costa Rica
+AAR;EKAH;Aarhus;Aarhus Airport;Denmark
+BLL;EKBI;Billund;Billund Airport;Denmark
+RKE;EKRK;Copenhagen;Copenhagen Roskilde Airport;Denmark
+CPH;EKCH;Copenhagen;Copenhagen Kastrup Intl Airport;Denmark
+EBJ;EKEB;Esbjerg;Esbjerg Airport;Denmark
+ODE;EKOD;Odense;Odense Airport;Denmark

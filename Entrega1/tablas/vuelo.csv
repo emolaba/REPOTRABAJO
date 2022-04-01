@@ -1,4 +1,4 @@
-codigo_vuelo,aerodromo_inicial,aerodromo_final,compania,fecha_salida,fecha_llegada,aeronave,estado
+codigo_vuelo;aerodromo_inicial;aerodromo_final;compania;fecha_salida;fecha_llegada;aeronave;estado
 AAU336;SAZM;OBBI;AAU;03-12-2022;03-12-2022;AXHMLGY;ACEPTADO
 ACA844;SAME;YPXM;ACA;11-07-2022;11-07-2022;FKTDAFG;PENDIENTE
 AMX338;SAAP;YCCA;AMX;08-04-2022;08-04-2022;WXCLMWM;RECHAZADO

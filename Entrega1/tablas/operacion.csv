@@ -1,1 +1,9 @@
-tipo,aerodromo_despegue,aerodromo_destino,hora,aeronave,pista,puerto
+tipo;aerodromo_despegue;aerodromo_destino;hora;aeronave;pista;puerto
+despegue;SAZM;OBBI;1030;AXHMLGY;pista 1;puerto 1
+arribo;SAZM;OBBI;1300;AXHMLGY;pista 2;puerto 2
+despegue;YBCV;SAZM;1300;FKTDAFG;pista 3;puerto 3
+arribo;YBCV;SAZM;1500;FKTDAFG;pista 4;puerto 4
+despegue;MYAT;OBBI;1600;WXCLMWM;pista 5;puerto 5
+arribo;MYAT;OBBI;1700;WXCLMWM;pista 6;puerto 6
+despegue;EBKT;SAME;1630;LMQJYFN;pista 7;puerto 7
+arribo;EBKT;SAME;1900;LMQJYFN;pista 8;puerto 8
