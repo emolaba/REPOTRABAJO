@@ -1,4 +1,4 @@
-tipo,vuelo,aeronave,velocidad,altitud,ruta,piloto,copiloto,numero_pasajeros,estado
+tipo;vuelo;aeronave;velocidad;altitud;ruta;piloto;copiloto;numero_pasajeros;estado
 comercial;AAU336;AXHMLGY;890;12500;1;Ammar Miller;Keiren Palmer;365;yes
 comercial;AAU336;FKTDAFG;788;14300;2;Sachin Pennington;Zakariyah Hollis;290;yes
 comercial;ACA844;WXCLMWM;902;13600;3;Mckenzie Ferrell;Natan Roach;103;no
