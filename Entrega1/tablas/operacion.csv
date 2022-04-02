@@ -7,3 +7,5 @@ despegue;MYAT;OBBI;1600;WXCLMWM;pista 5;puerto 5
 arribo;MYAT;OBBI;1700;WXCLMWM;pista 6;puerto 6
 despegue;EBKT;SAME;1630;LMQJYFN;pista 7;puerto 7
 arribo;EBKT;SAME;1900;LMQJYFN;pista 8;puerto 8
+despegue;DBBB;MYAT;140;TRMAWVX;pista 9;puerto 8
+arribo;DBBB;MYAT;1040;TRMAWVX;pista 10;puerto 10
